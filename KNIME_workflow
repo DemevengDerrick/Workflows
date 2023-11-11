@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T21:25:37.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dWoS3toCs-cGT1JJCVhY" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T21:37:57.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F33Od9cHhFvd63i1R8rt" version="22.1.0" type="github">
   <diagram name="Page-1" id="Tv1jzihHjVqhaJ4M89Ab">
     <mxGraphModel dx="2333" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="VGaf7r-9kc1M0Wlvl_mV-30" value="WINDOWS SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="366" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VGaf7r-9kc1M0Wlvl_mV-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="900" y="150" width="101" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="VGaf7r-9kc1M0Wlvl_mV-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="905" y="313" width="96" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
