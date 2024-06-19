@@ -1,26 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T11:52:20.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OC9GXtLx3UdEsOrEu68h" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T12:00:54.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fs2Mz4vfRqAoKEuukdyz" version="24.4.8" type="github">
   <diagram name="Page-1" id="bRk7tvYl-uDU_pKbTvGP">
     <mxGraphModel dx="2272" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZGMuu3efnay6go1v7gtS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ZGMuu3efnay6go1v7gtS-1" target="ZGMuu3efnay6go1v7gtS-7">
+        <mxCell id="ZGMuu3efnay6go1v7gtS-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="41" width="270" height="599" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGMuu3efnay6go1v7gtS-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGMuu3efnay6go1v7gtS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=0;" edge="1" parent="1" source="ZGMuu3efnay6go1v7gtS-1" target="ZGMuu3efnay6go1v7gtS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;ALGERIA&lt;/li&gt;&lt;li&gt;CAF&lt;/li&gt;&lt;li&gt;CAMEROON&lt;/li&gt;&lt;li&gt;CDC&lt;/li&gt;&lt;li&gt;COTE D&#39;IVOIRE&lt;/li&gt;&lt;li&gt;ETHIOPIA&lt;/li&gt;&lt;li&gt;GHANA&lt;/li&gt;&lt;li&gt;IBADAN&lt;/li&gt;&lt;li&gt;KENYA&lt;/li&gt;&lt;li&gt;MADAGASCAR&lt;/li&gt;&lt;li&gt;MAIDUGURI&lt;/li&gt;&lt;li&gt;RDC&lt;/li&gt;&lt;li&gt;SENEGAL&lt;/li&gt;&lt;li&gt;SOA-NICD&lt;/li&gt;&lt;li&gt;UGANDA&lt;/li&gt;&lt;li&gt;ZAMBIA&lt;/li&gt;&lt;li&gt;ZIMBABWE&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=-10;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="85" y="41" width="130" height="282" as="geometry" />
+          <mxGeometry x="85" y="88" width="130" height="282" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coronavirus-innovicons-color/128/coronavirus-microscope-virus-laboratory-128.png" vertex="1" parent="1">
-          <mxGeometry x="124" y="11" width="50" height="50" as="geometry" />
+          <mxGeometry x="124" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=10;fontStyle=3;curved=0;" edge="1" parent="1" source="ZGMuu3efnay6go1v7gtS-7" target="ZGMuu3efnay6go1v7gtS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-7" value="mdb zipped&lt;div style=&quot;font-size: 10px;&quot;&gt;files from labs&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699233-icon-124-document-file-zip-128.png;fontSize=10;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="287" y="156" width="53" height="53" as="geometry" />
+          <mxGeometry x="306" y="156" width="53" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-8" value="Data shared by&lt;div style=&quot;font-size: 10px;&quot;&gt;labs via email&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png;fontSize=10;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="424" y="333.25" width="58.5" height="58.5" as="geometry" />
+          <mxGeometry x="430" y="152.75" width="58.5" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-12" value="folder containing&lt;div style=&quot;font-size: 10px;&quot;&gt;all zipped mdbs&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;outlineConnect=0;align=left;shape=mxgraph.office.concepts.folder;fillColor=#DA4026;fontSize=10;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="793" y="99" width="70" height="60" as="geometry" />
@@ -33,7 +39,7 @@
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-32" value="Dowload the individual&lt;div&gt;&amp;nbsp;mdbs to a folder&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZGMuu3efnay6go1v7gtS-14">
           <mxGeometry x="0.0711" y="-1" relative="1" as="geometry">
-            <mxPoint x="87" as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-19" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;fontStyle=3" edge="1" parent="1" source="ZGMuu3efnay6go1v7gtS-16" target="ZGMuu3efnay6go1v7gtS-13">
@@ -79,7 +85,19 @@
           <mxGeometry x="914" y="447" width="41.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ZGMuu3efnay6go1v7gtS-28" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.quicksight_paginated_reports;" vertex="1" parent="1">
-          <mxGeometry x="808.13" y="610" width="39.74" height="50" as="geometry" />
+          <mxGeometry x="808.13" y="565" width="39.74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGMuu3efnay6go1v7gtS-33" value="WCO&lt;div&gt;MoH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="412" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGMuu3efnay6go1v7gtS-34" value="WHO HQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="557" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGMuu3efnay6go1v7gtS-35" value="Donors and implementing partners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="486" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGMuu3efnay6go1v7gtS-37" value="Data shared by&lt;div style=&quot;font-size: 10px;&quot;&gt;labs via email&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png;fontSize=10;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="430" y="434.5" width="58.5" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
