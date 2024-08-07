@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nNuCgjRTGOYg33JqHys8-33" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="nNuCgjRTGOYg33JqHys8-33" value="AQUISITION ET&amp;nbsp;&lt;div&gt;ARCHIVAGE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="109" width="402" height="661" as="geometry" />
         </mxCell>
-        <mxCell id="nNuCgjRTGOYg33JqHys8-32" value="ABSTRACTION ET&amp;nbsp;&lt;div&gt;AQUISITION&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nNuCgjRTGOYg33JqHys8-32" value="ABSTRACTION" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="108" width="360" height="662" as="geometry" />
         </mxCell>
-        <mxCell id="nNuCgjRTGOYg33JqHys8-30" value="ANLYSE ET VISUALISATION" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="nNuCgjRTGOYg33JqHys8-30" value="ANLYSE ET AFFICHAGE (VISUALISATION)" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="935" y="110" width="180" height="660" as="geometry" />
         </mxCell>
         <mxCell id="nNuCgjRTGOYg33JqHys8-3" value="IDENTIFICATION ET ABSTRACTION &#xa;DU PROBLEM" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://library.ascd.org/m/5bdeb1222cb0905f/webimage-affiliates_CTA_questions.jpg;imageBorder=default;imageBackground=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
