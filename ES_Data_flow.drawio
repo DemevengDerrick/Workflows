@@ -131,79 +131,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ziAdh-J412bgN4sQqvQJ" name="Page-2">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qC_97aO5CCzSg09dZwV5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="10" width="310" height="780" as="geometry" />
-        </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="546" y="10" width="280" height="780" as="geometry" />
-        </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="248" y="10" width="280" height="780" as="geometry" />
-        </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="210" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="60" width="1110" height="308" as="geometry" />
+        <mxCell id="qC_97aO5CCzSg09dZwV5-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="170" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-7" target="qC_97aO5CCzSg09dZwV5-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="97" />
-              <mxPoint x="327" y="97" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="528" y="11" width="280" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-7" value="47 COUNTRIES COLLECT AND SHIP SAMPLES TO 15 ES LABS IN THE REGION" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="141" width="150" height="140" as="geometry" />
+        <mxCell id="qC_97aO5CCzSg09dZwV5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="10" width="310" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0;shadow=1;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-10" target="qC_97aO5CCzSg09dZwV5-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="389" y="317" />
-              <mxPoint x="120" y="317" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="818" y="10" width="280" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-10" target="qC_97aO5CCzSg09dZwV5-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="452" y="107" />
-              <mxPoint x="624" y="107" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="239" y="10" width="280" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-10" value="17 LABS PROCESS THE ES SAMPLES AND MANAGES THE DATA IN EPI INFO THEN SHARE THE DATABASES WITH AFRO AND COUNTRIES" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="264" y="141" width="250" height="140" as="geometry" />
+        <mxCell id="qC_97aO5CCzSg09dZwV5-7" value="AFP SURVEILLANCE&lt;div&gt;DATA IN ENTERED IN EPI INFO AND SHARED TO IST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="150" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0;shadow=1;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-14" target="qC_97aO5CCzSg09dZwV5-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="684" y="347" />
-              <mxPoint x="120" y="347" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-10" value="IST COMPILES DATABASES AND SHARE WITH AFRO" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="263" y="141" width="250" height="109" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="403" width="1110" height="380" as="geometry" />
+          <mxGeometry x="30" y="403" width="1380" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;shadow=1;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-14" target="qC_97aO5CCzSg09dZwV5-15">
+        <mxCell id="qC_97aO5CCzSg09dZwV5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-14" target="qC_97aO5CCzSg09dZwV5-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="744" y="97" />
-              <mxPoint x="1004" y="97" />
+              <mxPoint x="1022" y="80" />
+              <mxPoint x="1276" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-14" value="AFRO COMPILES THE 16 DABASES INTO ONE AND SHARE WITH THE COUNTRIES, HQ AND PARTNERS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="564" y="141" width="240" height="140" as="geometry" />
+        <mxCell id="qC_97aO5CCzSg09dZwV5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-14" target="qC_97aO5CCzSg09dZwV5-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1022" y="360" />
+              <mxPoint x="125" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-15" value="DATABASE SHARED WITH HQ AND FEED INTO POLIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=0;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="884" y="141" width="240" height="140" as="geometry" />
+        <mxCell id="qC_97aO5CCzSg09dZwV5-14" value="AFRO COMPILES BOTH THE SURVEILLANCE AND LAB DATABASES AND SHARE WITH HQ AND COUNTRIES" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="842" y="149.5" width="240" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-15" value="DATABASE SHARED WITH HQ AND FEED INTO POLIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1156" y="141" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-17" target="qC_97aO5CCzSg09dZwV5-18">
           <mxGeometry relative="1" as="geometry">
@@ -235,28 +214,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-24" value="REGIONAL OFFICE ACCESS THE DATA VIA THE WEB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="490" width="240" height="140" as="geometry" />
+          <mxGeometry x="842" y="490" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-25" value="HQ ACCESS THE DATA VIA THE WEB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="884" y="490" width="240" height="140" as="geometry" />
+          <mxGeometry x="1156" y="490" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-26" value="COUNTRY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-27" value="LAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="qC_97aO5CCzSg09dZwV5-27" value="WHO IST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="20" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="1380" height="308" as="geometry" />
+        </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-28" value="WHO REGIONAL OFFICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="20" width="290" height="30" as="geometry" />
+          <mxGeometry x="813" y="20" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-29" value="WHO HQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="20" width="250" height="30" as="geometry" />
+          <mxGeometry x="1142" y="20" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-30" value="WEBIFA DATA FLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="430" y="409" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-31" value="EPI INFO DATA FLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;shadow=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="430" y="65" width="250" height="30" as="geometry" />
+          <mxGeometry x="460" y="-50" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.284;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-7" target="qC_97aO5CCzSg09dZwV5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-36" value="LAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="583" y="20" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-37" target="qC_97aO5CCzSg09dZwV5-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="280" />
+              <mxPoint x="902" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-37" value="17 LABS PROCESS THE SPECIMENS AND MANAGES THE DATA IN EPI INFO THEN SHARE THE DATABASES WITH AFRO AND COUNTRIES" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="543" y="141" width="250" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-10" target="qC_97aO5CCzSg09dZwV5-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="388" y="80" />
+              <mxPoint x="902" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-40" value="SPECIMENS SENT TO LABS FOR ANALYSIS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="150" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-40" target="qC_97aO5CCzSg09dZwV5-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
