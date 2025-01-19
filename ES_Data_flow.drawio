@@ -138,9 +138,6 @@
         <mxCell id="qC_97aO5CCzSg09dZwV5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="210" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="170" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="528" y="11" width="280" height="780" as="geometry" />
         </mxCell>
@@ -152,6 +149,12 @@
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="239" y="10" width="280" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="54" width="1380" height="308" as="geometry" />
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="170" height="240" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-7" value="AFP SURVEILLANCE&lt;div&gt;DATA IN ENTERED IN EPI INFO AND SHARED TO IST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="100" width="150" height="99" as="geometry" />
@@ -170,11 +173,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-14" target="qC_97aO5CCzSg09dZwV5-40">
+        <mxCell id="qC_97aO5CCzSg09dZwV5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1022" y="248.5" as="sourcePoint" />
+            <mxPoint x="125" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1022" y="360" />
-              <mxPoint x="125" y="360" />
+              <mxPoint x="1022" y="350" />
+              <mxPoint x="125" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,9 +229,6 @@
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-27" value="WHO IST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="20" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="60" width="1380" height="308" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-28" value="WHO REGIONAL OFFICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="813" y="20" width="290" height="30" as="geometry" />
