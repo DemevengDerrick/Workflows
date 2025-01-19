@@ -68,11 +68,34 @@
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-20" value="DATABASE SHARED WITH HQ AND FEED INTO POLIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="884" y="94" width="240" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-29" target="AzPNCQ3yJUDIUclCNpcj-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="430" />
+              <mxPoint x="388" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-29" value="47 COUNTRIES COLLECT AND SHIP SAMPLES TO 15 ES LABS IN THE REGION" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="570" width="150" height="140" as="geometry" />
+          <mxGeometry x="45" y="490" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-30" value="15 LABS PROCESS THE ES SAMPLES AND ENTER THE RESULTS DIRECTLY IN WEBIFA" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="263" y="570" width="250" height="140" as="geometry" />
+          <mxGeometry x="263" y="490" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-34" target="AzPNCQ3yJUDIUclCNpcj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-34" target="AzPNCQ3yJUDIUclCNpcj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-34" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="687" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.38;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-30" target="AzPNCQ3yJUDIUclCNpcj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-37" value="REGIONAL OFFICE ACCESS THE DATA VIA THE WEB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
