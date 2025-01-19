@@ -43,6 +43,12 @@
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-7" value="NEW ES&lt;div&gt;SAMPLE FROM&lt;/div&gt;&lt;div&gt;NEW SITE&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/bottle-drink-energy-water-fitness-diet-128.png;fontStyle=1;imageBackground=none;labelBorderColor=default;spacingTop=1;spacingBottom=1;spacingLeft=1;spacingRight=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="100" width="108" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-15" value="EPI INFO DATA ENTRY WORKFLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontColor=#000000;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="100" width="398" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-16" value="WEBIFA DATA ENTRY WORKFLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontColor=#000000;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="60" width="398" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
