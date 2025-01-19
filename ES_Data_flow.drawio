@@ -5,43 +5,43 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="1050" height="229" as="geometry" />
+          <mxGeometry x="60" y="60" width="1050" height="229" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="54" y="81.5" width="856" height="186" as="geometry" />
+          <mxGeometry x="74" y="81.5" width="856" height="186" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-1" target="AzPNCQ3yJUDIUclCNpcj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-1" value="CREATION OF ES SITE BY THE LAB OR COUNTRY" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="141.5" width="120" height="78" as="geometry" />
+          <mxGeometry x="220" y="141.5" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-2" target="AzPNCQ3yJUDIUclCNpcj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-2" value="CREATION OF ES SAMPLES BY THE LAB AT RECEPTION" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="141.5" width="120" height="78" as="geometry" />
+          <mxGeometry x="410" y="141.5" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-3" target="AzPNCQ3yJUDIUclCNpcj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-3" value="INPUT OF CELL CULTURE RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="141.5" width="120" height="78" as="geometry" />
+          <mxGeometry x="590" y="141.5" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-4" target="AzPNCQ3yJUDIUclCNpcj-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-4" value="INPUT OF ITD RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="750" y="141.5" width="120" height="78" as="geometry" />
+          <mxGeometry x="770" y="141.5" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-5" value="INPUT OF SEQUENCING RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="940" y="141.5" width="120" height="78" as="geometry" />
+          <mxGeometry x="960" y="141.5" width="120" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-7" target="AzPNCQ3yJUDIUclCNpcj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-7" value="NEW ES&lt;div&gt;SAMPLE FROM&lt;/div&gt;&lt;div&gt;NEW SITE&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/bottle-drink-energy-water-fitness-diet-128.png;fontStyle=1;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="54" y="100" width="108" height="108" as="geometry" />
+          <mxGeometry x="74" y="100" width="108" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
