@@ -189,22 +189,14 @@
         <mxCell id="qC_97aO5CCzSg09dZwV5-15" value="DATABASE SHARED WITH HQ AND FEED INTO POLIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1156" y="157" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-17" target="qC_97aO5CCzSg09dZwV5-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="430" />
-              <mxPoint x="388" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-17" value="47 COUNTRIES COLLECT AND SHIP SAMPLES TO 15 ES LABS IN THE REGION" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="490" width="150" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-18" target="qC_97aO5CCzSg09dZwV5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-18" value="15 LABS PROCESS THE ES SAMPLES AND ENTER THE RESULTS DIRECTLY IN WEBIFA" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="263" y="490" width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-22" target="qC_97aO5CCzSg09dZwV5-17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-22" target="qC_97aO5CCzSg09dZwV5-24">
           <mxGeometry relative="1" as="geometry" />
@@ -213,10 +205,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="335" y="687" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="qC_97aO5CCzSg09dZwV5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.38;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-18" target="qC_97aO5CCzSg09dZwV5-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="318" y="680" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-24" value="REGIONAL OFFICE ACCESS THE DATA VIA THE WEB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="842" y="490" width="240" height="140" as="geometry" />
@@ -276,6 +265,9 @@
               <mxPoint x="606" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qC_97aO5CCzSg09dZwV5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;fillColor=#000000;strokeColor=#FFFFFF;startSize=5;endSize=4;" edge="1" parent="1" source="qC_97aO5CCzSg09dZwV5-17" target="qC_97aO5CCzSg09dZwV5-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
