@@ -4,50 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;glass=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="1070" height="240" as="geometry" />
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-17" value="47 COUNTRIES COLLECT AND SHIP SAMPLES TO 15 ES LABS IN THE REGION" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="21" y="60" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;opacity=60;dashed=1;dashPattern=8 8;gradientColor=none;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="74" y="91.5" width="906" height="186" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-1" target="AzPNCQ3yJUDIUclCNpcj-2">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-18" target="AzPNCQ3yJUDIUclCNpcj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-1" value="CREATION OF ES SITE BY THE LAB OR COUNTRY" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="141.5" width="120" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-2" target="AzPNCQ3yJUDIUclCNpcj-3">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-18" target="AzPNCQ3yJUDIUclCNpcj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-2" value="CREATION OF ES SAMPLES BY THE LAB AT RECEPTION" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="141.5" width="120" height="78" as="geometry" />
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-18" value="15 LABS PROCESS THE ES SAMPLES AND MANAGES THE DATA IN EPI INFO THEN SHARE THE DATABASE WITH AFRO AND COUNTRIES" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-3" target="AzPNCQ3yJUDIUclCNpcj-4">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-19" target="AzPNCQ3yJUDIUclCNpcj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-3" value="INPUT OF CELL CULTURE RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="590" y="141.5" width="120" height="78" as="geometry" />
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-19" value="AFRO COMPILES THE 16 DABASES INTO ONE AND SHARE WITH THE COUNTRIES, HQ AND PARTNERS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="540" y="60" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-4" target="AzPNCQ3yJUDIUclCNpcj-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-4" value="INPUT OF ITD RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="141.5" width="120" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-5" value="INPUT OF SEQUENCING RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="960" y="141.5" width="120" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-7" target="AzPNCQ3yJUDIUclCNpcj-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-7" value="NEW ES&lt;div&gt;SAMPLE FROM&lt;/div&gt;&lt;div&gt;NEW SITE&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/bottle-drink-energy-water-fitness-diet-128.png;fontStyle=1;imageBackground=none;labelBorderColor=default;spacingTop=1;spacingBottom=1;spacingLeft=1;spacingRight=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="100" width="108" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-15" value="EPI INFO DATA ENTRY WORKFLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontColor=#000000;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="100" width="398" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-16" value="WEBIFA DATA ENTRY WORKFLOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;fontColor=#000000;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="60" width="398" height="30" as="geometry" />
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="240" height="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
