@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-28" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="10" width="310" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-27" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="546" y="10" width="280" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-26" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="248" y="10" width="280" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="210" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-42" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;opacity=70;" vertex="1" parent="1">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-42" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="1110" height="290" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-17" target="AzPNCQ3yJUDIUclCNpcj-18">
@@ -57,7 +57,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzPNCQ3yJUDIUclCNpcj-41" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;opacity=70;" vertex="1" parent="1">
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-41" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;opacity=70;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="403" width="1110" height="380" as="geometry" />
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;shadow=1;shape=flexArrow;fillColor=default;" edge="1" parent="1" source="AzPNCQ3yJUDIUclCNpcj-19" target="AzPNCQ3yJUDIUclCNpcj-20">
@@ -108,6 +108,18 @@
         </mxCell>
         <mxCell id="AzPNCQ3yJUDIUclCNpcj-39" value="HQ ACCESS THE DATA VIA THE WEB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="884" y="490" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-43" value="COUNTRY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-44" value="LAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="20" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-45" value="WHO REGIONAL OFFICE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="541" y="20" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzPNCQ3yJUDIUclCNpcj-46" value="WHO HQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="870" y="20" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
