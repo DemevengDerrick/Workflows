@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="3">
   <diagram name="Page-1" id="wS429YDWmbBYox7M_6QV">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -282,6 +282,53 @@
         </mxCell>
         <mxCell id="qC_97aO5CCzSg09dZwV5-50" value="IST ACCESS THE DATA VIA THE WEB" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;fillColor=#e1d5e7;strokeColor=#000000;shadow=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="149" y="511" width="250" height="109" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="soCu96RdFi-F9rxSk0Np" name="Page-3">
+    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;dashed=1;flowAnimation=1;" edge="1" parent="1" source="VTX6laQq0w1LZ_CfPXny-1" target="VTX6laQq0w1LZ_CfPXny-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ona.io/home/wp-content//themes/ona/assets/img/red-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="105" y="102.91" width="144" height="43.09" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;dashed=1;flowAnimation=1;" edge="1" parent="1" source="VTX6laQq0w1LZ_CfPXny-2" target="VTX6laQq0w1LZ_CfPXny-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://getodk.org/assets/svg/logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="112.84" y="200" width="128.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kobotoolbox.org/assets/images/common/kobotoolbox_logo_default_for-light-bg.svg;" vertex="1" parent="1">
+          <mxGeometry x="52" y="310" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dhis2.org/wp-content/uploads/dhis2-logo-rgb-positive.svg;" vertex="1" parent="1">
+          <mxGeometry x="92.92999999999999" y="388" width="168.13" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=3;dashed=1;flowAnimation=1;" edge="1" parent="1" source="VTX6laQq0w1LZ_CfPXny-5" target="VTX6laQq0w1LZ_CfPXny-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://gts.health/assets/img/logo/GTS_Logo_onepage_prod_hidora.png;imageBackground=#3399FF;imageBorder=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="125.75" y="470" width="102.48" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://es.world/en/assets/images/core/logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="121.99999999999999" y="610" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://geofumadas.com/wp-content/uploads/2019/11/curso-de-arcgis-y-qgis-1-550x309.jpg;imageBorder=default;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="321" width="265.21" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeWidth=3;dashed=1;flowAnimation=1;" edge="1" parent="1" source="VTX6laQq0w1LZ_CfPXny-3" target="VTX6laQq0w1LZ_CfPXny-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeWidth=3;dashed=1;flowAnimation=1;" edge="1" parent="1" source="VTX6laQq0w1LZ_CfPXny-4" target="VTX6laQq0w1LZ_CfPXny-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX6laQq0w1LZ_CfPXny-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.543;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeWidth=3;dashed=1;flowAnimation=1;" edge="1" parent="1" source="VTX6laQq0w1LZ_CfPXny-7" target="VTX6laQq0w1LZ_CfPXny-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
