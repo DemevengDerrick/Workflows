@@ -70,6 +70,15 @@
         <mxCell id="UyLI5zCr4JLoSCVPqPzQ-31" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;verticalAlign=top;labelBackgroundColor=default;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="540" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UyLI5zCr4JLoSCVPqPzQ-33" value="Building Location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="169.78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLI5zCr4JLoSCVPqPzQ-34" value="Household" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="375.11" y="208" width="169.78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UyLI5zCr4JLoSCVPqPzQ-35" value="Individual Records" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="796.11" y="150" width="169.78" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
