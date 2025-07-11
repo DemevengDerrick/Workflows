@@ -107,7 +107,7 @@
         <mxCell id="HtUIgSIlBZydr-yxOCp_-4" value="Suburban or Peri-Urban Area" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=70;fillColor=#FFFF00;fontSize=25;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=100;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="HtUIgSIlBZydr-yxOCp_-5" value="Village" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=70;fillColor=#375623;fontSize=25;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=100;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="HtUIgSIlBZydr-yxOCp_-5" value="Village" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=70;fillColor=#375623;fontSize=25;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=-100;fontColor=#FFFFFF;spacingLeft=-150;" vertex="1" parent="1">
           <mxGeometry x="60" y="470" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="HtUIgSIlBZydr-yxOCp_-7" value="Dense Twon" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=70;fillColor=#732600;fontSize=25;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=-100;fontColor=#FFFFFF;horizontal=1;spacingLeft=-100;" vertex="1" parent="1">
