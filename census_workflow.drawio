@@ -116,6 +116,18 @@
         <mxCell id="HtUIgSIlBZydr-yxOCp_-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=70;strokeColor=light-dark(#000000,#FF0000);fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="320" y="470" width="260" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="HtUIgSIlBZydr-yxOCp_-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Location.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="40" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUIgSIlBZydr-yxOCp_-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Location.svg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="40" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUIgSIlBZydr-yxOCp_-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Location.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="40" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUIgSIlBZydr-yxOCp_-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Location.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="470" width="40" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
