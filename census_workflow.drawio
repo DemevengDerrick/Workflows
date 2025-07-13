@@ -359,6 +359,15 @@
         <mxCell id="k8EVkkP8q64u3VZ-7MBe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1020" y="360" width="130" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="86YBUjmep0b8VhGeLZyh-1" value="Individual Records" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="380" y="339" width="432.18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86YBUjmep0b8VhGeLZyh-2" value="Census Boundaries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="45.589999999999975" y="10" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86YBUjmep0b8VhGeLZyh-3" value="Classification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="510.99" y="10" width="350" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
