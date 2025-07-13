@@ -305,6 +305,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hitjiLVOhB6nkdDawd2x-29" value="Individual Records" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="359.55" y="340" width="432.18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hitjiLVOhB6nkdDawd2x-30" value="Census Boundaries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hitjiLVOhB6nkdDawd2x-31" value="Area of Interest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="50.440000000000055" y="10" width="350" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
