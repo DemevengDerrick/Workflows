@@ -382,6 +382,12 @@
         <mxCell id="rGiNyiWqWPPitwKSguaD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="640" y="385" width="820" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hUferVwL1OmcMqz-e3GO-1" value="Individual Records" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-210.45" y="160" width="432.18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hUferVwL1OmcMqz-e3GO-2" value="Indicators Computation by Constituency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="758.52" y="230" width="589.21" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
